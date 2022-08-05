@@ -13,7 +13,7 @@ services:
   #     - 8083:8080
   #   environment:
   #     TZ: Asia/Shanghai
-  json-dart:
+  json-to-dart:
     restart: always
     build:
       context: ./
